@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Project",
+  "version": "1.0",
+  "browser_action":{
+  "default_popup": "htmltemplate/index0_bootstrap.html"
+  },
+  "permissions": ["activeTab","storage"]
+}
+

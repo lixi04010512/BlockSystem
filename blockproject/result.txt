@@ -1,0 +1,92 @@
+     ██╗ ██████╗ ██╗  ██╗███╗   ██╗██╗  ██╗ █████╗ ██╗
+     ██║██╔═══██╗██║  ██║████╗  ██║██║  ██║██╔══██╗██║
+     ██║██║   ██║███████║██╔██╗ ██║███████║███████║██║
+██   ██║██║   ██║██╔══██║██║╚██╗██║██╔══██║██╔══██║██║
+╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║██║  ██║██║
+╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+██████╗ ██╗      ██████╗  ██████╗██╗  ██╗ ██████╗██╗  ██╗ █████╗ ██╗███╗   ██╗
+██╔══██╗██║     ██╔═══██╗██╔════╝██║ ██╔╝██╔════╝██║  ██║██╔══██╗██║████╗  ██║
+██████╔╝██║     ██║   ██║██║     █████╔╝ ██║     ███████║███████║██║██╔██╗ ██║
+██╔══██╗██║     ██║   ██║██║     ██╔═██╗ ██║     ██╔══██║██╔══██║██║██║╚██╗██║
+██████╔╝███████╗╚██████╔╝╚██████╗██║  ██╗╚██████╗██║  ██║██║  ██║██║██║ ╚████║
+╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+minerAddress GKot5hBsd81kMupNCXHaqbhv3huEbxAFMLnpcX2hniwn
+account1Address 8x4KKcRj8PbP5tDiBBqoiaEXUSPEf3rFRphe9kxwe99P
+account2Address CoQmfS9nPuxQo6uqqbUtikRZ4Dk54K67WBfEt4YoCSWE
+Blockchain: 2023/04/28 11:45:03 POW spend Time:14.72725ms DIFF18107
+action=mining, status=success
+这笔交易验证通过吗? true
+Blockchain: 2023/04/28 11:45:03 POW spend Time:11.323459ms DIFF23107
+action=mining, status=success
+这笔交易验证通过吗? true
+Blockchain: 2023/04/28 11:45:03 POW spend Time:10.223084ms DIFF28107
+action=mining, status=success
+=====根据number查block==========
+Blockchain: 2023/04/28 11:45:03 nonce          :                          8080
+Blockchain: 2023/04/28 11:45:03 timestamp      :           1682653503639068000
+Blockchain: 2023/04/28 11:45:03 number         :                             1
+Blockchain: 2023/04/28 11:45:03 difficulty     :                         18107
+Blockchain: 2023/04/28 11:45:03 previousHash   :3e1f447c878ffca83a128d5e168f05f537c532d6ebad8ad1b33346673373ef3a
+Blockchain: 2023/04/28 11:45:03 hash           :844c8c574718c44f3338e172e0b316a8f6e1a070824444370884d82c9b6e0ec6
+Blockchain: 2023/04/28 11:45:03 txSize         :                             2
+=====根据hash查block==========
+Blockchain: 2023/04/28 11:45:03 nonce          :                          8080
+Blockchain: 2023/04/28 11:45:03 timestamp      :           1682653503660979000
+Blockchain: 2023/04/28 11:45:03 number         :                             3
+Blockchain: 2023/04/28 11:45:03 difficulty     :                         28107
+Blockchain: 2023/04/28 11:45:03 previousHash   :ad54d5d6a7ca0b323eafdea1f5b5c9d1a570f8d652fab4a292476cca85617f5c
+Blockchain: 2023/04/28 11:45:03 hash           :6cab1a2c6c0bc01b84c0e8e74ad503dc7b922723dba864600deb18da3939f85d
+Blockchain: 2023/04/28 11:45:03 txSize         :                             2
+=====区块号为： 3  的交易为：=========
+[]
+========================= BLOCK 0 =========================
+Blockchain: 2023/04/28 11:45:03 nonce          :                             0
+Blockchain: 2023/04/28 11:45:03 number         :                             0
+Blockchain: 2023/04/28 11:45:03 txSize         :                             1
+Blockchain: 2023/04/28 11:45:03 previous_hash  :1c0fdf98c211d3314e92502778aa8e17832138241e9994ccb67faf2b11944c74
+Blockchain: 2023/04/28 11:45:03 difficulty     :                             0
+Blockchain: 2023/04/28 11:45:03 hash           :3e1f447c878ffca83a128d5e168f05f537c532d6ebad8ad1b33346673373ef3a
+========================= BLOCK 1 =========================
+Blockchain: 2023/04/28 11:45:03 nonce          :                          8080
+Blockchain: 2023/04/28 11:45:03 number         :                             1
+Blockchain: 2023/04/28 11:45:03 txSize         :                             2
+Blockchain: 2023/04/28 11:45:03 previous_hash  :3e1f447c878ffca83a128d5e168f05f537c532d6ebad8ad1b33346673373ef3a
+Blockchain: 2023/04/28 11:45:03 difficulty     :                          46bb
+Blockchain: 2023/04/28 11:45:03 hash           :844c8c574718c44f3338e172e0b316a8f6e1a070824444370884d82c9b6e0ec6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+发送地址             lixi
+接受地址             GKot5hBsd81kMupNCXHaqbhv3huEbxAFMLnpcX2hniwn
+金额                 50000000000000000000
+========================= BLOCK 2 =========================
+Blockchain: 2023/04/28 11:45:03 nonce          :                          8080
+Blockchain: 2023/04/28 11:45:03 number         :                             2
+Blockchain: 2023/04/28 11:45:03 txSize         :                             2
+Blockchain: 2023/04/28 11:45:03 previous_hash  :844c8c574718c44f3338e172e0b316a8f6e1a070824444370884d82c9b6e0ec6
+Blockchain: 2023/04/28 11:45:03 difficulty     :                          5a43
+Blockchain: 2023/04/28 11:45:03 hash           :ad54d5d6a7ca0b323eafdea1f5b5c9d1a570f8d652fab4a292476cca85617f5c
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+发送地址             GKot5hBsd81kMupNCXHaqbhv3huEbxAFMLnpcX2hniwn
+接受地址             8x4KKcRj8PbP5tDiBBqoiaEXUSPEf3rFRphe9kxwe99P
+金额                 20000000000000000000
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+发送地址             lixi
+接受地址             GKot5hBsd81kMupNCXHaqbhv3huEbxAFMLnpcX2hniwn
+金额                 50000000000000000000
+========================= BLOCK 3 =========================
+Blockchain: 2023/04/28 11:45:03 nonce          :                          8080
+Blockchain: 2023/04/28 11:45:03 number         :                             3
+Blockchain: 2023/04/28 11:45:03 txSize         :                             2
+Blockchain: 2023/04/28 11:45:03 previous_hash  :ad54d5d6a7ca0b323eafdea1f5b5c9d1a570f8d652fab4a292476cca85617f5c
+Blockchain: 2023/04/28 11:45:03 difficulty     :                          6dcb
+Blockchain: 2023/04/28 11:45:03 hash           :6cab1a2c6c0bc01b84c0e8e74ad503dc7b922723dba864600deb18da3939f85d
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+发送地址             8x4KKcRj8PbP5tDiBBqoiaEXUSPEf3rFRphe9kxwe99P
+接受地址             CoQmfS9nPuxQo6uqqbUtikRZ4Dk54K67WBfEt4YoCSWE
+金额                 2000
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+发送地址             lixi
+接受地址             GKot5hBsd81kMupNCXHaqbhv3huEbxAFMLnpcX2hniwn
+金额                 50000000000000000000
+**************************************************
+
+
